@@ -41,7 +41,7 @@ Query your own PDF or TXT documents and receive answers generated strictly from 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/RAG-LLM-Project.git
+git clone https://github.com/eduglez03/RAG-LLM-Project.git
 cd RAG-LLM-Project
 pip install -r requirements.txt
 ```
