@@ -41,10 +41,11 @@ Query your own PDF or TXT documents and receive answers generated strictly from 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/rag-ollama.git
-cd rag-ollama
+git clone https://github.com/yourusername/RAG-LLM-Project.git
+cd RAG-LLM-Project
 pip install -r requirements.txt
 ```
+
 ### ⚙️ Install and run Ollama
 
 ```bash
